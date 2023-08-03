@@ -45,7 +45,7 @@ const productosPorPagina = 5;
 
 async function fetchProductos() {
     try {
-        const response = await fetch('productos.json');
+        const response = await fetch('./productos.json');
         const data = await response.json();
 
         const inicioIndex = (paginaActual - 1) * productosPorPagina;
