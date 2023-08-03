@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carrito de compra</title>
+    <link rel="stylesheet" href="./style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+</head>
+
+<body>
+    <section class="h-100" style="background-color: #ccc5c5;">
+        <div class="container h-100 py-5">
+            <div class="row d-flex justify-content-center align-items-center h-100">
+                <h3 class="fw-normal mb-0 text-black titulos tituloPagina">Lista de productos</h3><br><br>
+                <div class="productosJson"></div>
+                <div class="botonesLista">
+                    <button class="btn btn-primary" id="botonAtras"> < </button>
+                    <span>Página: </span><span id="paginaActual"></span>
+                    <button class="btn btn-primary" id="botonAdelante"> > </button>
+                </div><br><br>
+                <div class="d-flex justify-content-between align-items-center mb-4">
+                    <h3 class="fw-normal mb-0 text-black titulos">Carrito de compra <i class="fa-solid fa-cart-shopping"></i> </h3>
+                </div>
+                <button class="btn btn-success" id="botonGuardar">Guardar carrito</button> <br><br>
+                <div class="col-10 carrito">
+
+                    <!-- CARD DE PRODUCTO -->
+                </div>
+                <div class="card">
+                    <div class="card-body row">
+                        <button type="button" class="btn btn-warning btn-block btn-lg col-2" id="botonPago">Proceder al
+                            pago <hr><i class="fa-solid fa-money-bill" style="color: #51b011;"></i><i class="fa-solid fa-money-check-dollar" style="color: #709deb;"></i></button>
+                        <p class="col-10 textoTotal d-flex">Total $:<span id="precioTotalGeneral"></span></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script src="./main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous">
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+</body>
+
+</html>

@@ -1,0 +1,163 @@
+[
+    {
+        "nombre": "Babeta",
+        "color": "Galvanizado",
+        "descripcion": "Babeta para evitar filtraciones en techos.",
+        "precio": 6544,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_883532-MLA47191515375_082021-O.webp",
+        "id": 1
+    },
+    {
+        "nombre": "Babeta",
+        "color": "Negro",
+        "descripcion": "Babeta para evitar filtraciones en techos.",
+        "precio": 6544,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_642574-MLA42308593861_062020-F.webp",
+        "id": 2
+    },
+    {
+        "nombre": "Extractor eólico",
+        "color": "Galvanizado",
+        "descripcion": "Extractor para uso hogareño o industria.",
+        "precio": 11547,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_761274-MLA44198352150_112020-F.webp",
+        "id": 3
+    },
+    {
+        "nombre": "Hierros estructurales",
+        "color": "Sin color",
+        "descripcion": "Hierros estructurales de 6mm",
+        "precio": 5334,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_965798-MLA41594553297_042020-F.webp",
+        "id": 4
+    },
+    {
+        "nombre": "Hierros estructurales",
+        "color": "Sin color",
+        "descripcion": "Hierros estructurales de 8mm",
+        "precio": 6534,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_965798-MLA41594553297_042020-F.webp",
+        "id": 5
+    },
+    {
+        "nombre": "Hierros estructurales",
+        "color": "Sin color",
+        "descripcion": "Hierros estructurales de 10mm",
+        "precio": 7354,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_965798-MLA41594553297_042020-F.webp",
+        "id": 6
+    },
+    {
+        "nombre": "Hierros estructurales",
+        "color": "Sin color",
+        "descripcion": "Hierros estructurales de 12mm",
+        "precio": 8337,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_965798-MLA41594553297_042020-F.webp",
+        "id": 7
+    },
+    {
+        "nombre": "Hierros estructurales",
+        "color": "Sin color",
+        "descripcion": "Hierros estructurales de 16mm",
+        "precio": 9132,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_965798-MLA41594553297_042020-F.webp",
+        "id": 8
+    },
+    {
+        "nombre": "Caños estructurales",
+        "color": "Sin color",
+        "descripcion": "Caños estructurales 10x10",
+        "precio": 2381,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_769018-MLA42954022981_072020-F.webp",
+        "id": 9
+    },
+    {
+        "nombre": "Caños estructurales",
+        "color": "Sin color",
+        "descripcion": "Caños estructurales 20x20",
+        "precio": 3481,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_876070-MLA41856690978_052020-F.webp",
+        "id": 10
+    },
+    {
+        "nombre": "Caños estructurales",
+        "color": "Sin color",
+        "descripcion": "Caños estructurales 60x40",
+        "precio": 12481,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_706785-MLA31021740426_062019-F.webp",
+        "id": 11
+    },
+    {
+        "nombre": "Hierro doble T",
+        "color": "Sin color",
+        "descripcion": "Hierro Doble T 120",
+        "precio": 100164,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_723340-MLA40118251869_122019-F.webp",
+        "id": 12
+    },
+    {
+        "nombre": "Cabriadas",
+        "color": "Galvanizado",
+        "descripcion": "Cabriadas armadas de 3m",
+        "precio": 18665,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_976916-MLA48221431049_112021-O.webp",
+        "id": 13
+    },
+    {
+        "nombre": "Chimenea",
+        "color": "Galvanizado",
+        "descripcion": "Chimeneas para calefactores, calderas, extractores.",
+        "precio": 2554,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_639913-MLA45278589968_032021-F.webp",
+        "id": 14
+    },
+    {
+        "nombre": "Canaletas",
+        "color": "Galvanizado",
+        "descripcion": "Canaletas para hogar y galpones.",
+        "precio": 12445,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_732259-MLA46212724000_052021-F.webp",
+        "id": 15
+    },
+    {
+        "nombre": "Canaletas",
+        "color": "Negro",
+        "descripcion": "Canaletas para hogar y galpones.",
+        "precio": 14215,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_938746-MLA50461788899_062022-F.webp",
+        "id": 16
+    },
+    {
+        "nombre": "Cenefas",
+        "color": "Galvanizado",
+        "descripcion": "Cenefas para techos de hogares o galpones.",
+        "precio": 7545,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_678593-MLA50672841200_072022-F.webp",
+        "id": 17
+    },
+    {
+        "nombre": "Motor Extractor Exterior",
+        "color": "Gris",
+        "descripcion": "Motor Extractor Exterior Campana Cocina Econo Ø 4 PuLG 100 M.",
+        "precio": 39544,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_980832-MLA43832143224_102020-F.webp",
+        "id": 18
+    },
+    {
+        "nombre": "Malla De Construccion",
+        "color": "Galvanizado",
+        "descripcion": "Malla De Construccion Q-188 6mm 15x15 Cm 2.40x6.00 M 14,4m².",
+        "precio": 42380,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_841351-MLA48267505831_112021-F.webp",
+        "id": 19
+    },
+    {
+        "nombre": "Chapa Perforada Decorativa",
+        "color": "Galvanizado",
+        "descripcion": "Chapa Perforada Decorativa 0.7 Redondo-trebol-cuadrado Corte.",
+        "precio": 21200,
+        "linkfoto": "https://http2.mlstatic.com/D_NQ_NP_2X_935700-MLA50304394873_062022-F.webp",
+        "id": 20
+    }
+
+]

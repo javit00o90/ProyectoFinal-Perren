@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&family=Oswald&family=Roboto&display=swap');
+/* font-family: 'Jost', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Roboto', sans-serif; */
+
+
+.titulos{
+  font-family: 'Jost', sans-serif;
+}
+.tituloPagina{
+  text-align:center ;
+  margin-top:-8%;
+  padding-bottom: -6%;
+}
+
+.fotoCard{
+  height: 150px;
+  width: 150px;
+  background-position: center;
+  background-size: cover;
+  border: 1px solid #3d3a3a;
+}
+.textoTotal {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.hidden input{
+  display: none;
+}
+
+.hidden{
+  display: none;
+}
+
+.hidden p span{
+  display: none;
+}
+
+.botonEliminar{
+  height: 40px;
+  width: 40px;
+  border: 1px solid #131212;
+}
+
+.botonAgregar{
+  height: 40px;
+  width: 40px;
+  margin-left: 10px;
+}
+.botonAgregar:hover {
+  transform: scale(1.2);
+}
+.botonEliminar:hover {
+  transform: scale(1.2);
+}
+
+.botonesLista{
+  font-weight: bold;
+  margin-left: 85%;
+}
+
+.descripcion{
+  width: 200px;
+}
+
+.cardProductos{
+  border: 2px solid #131212;
+}
+
+
+.h5precio{
+  display: inline;
+}
+.signoPeso{
+  font-weight: bold;
+}
